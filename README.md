@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm colorfulhby👋
+
+## Statistics
+[![colorfulhby's github stats](https://github-readme-stats.vercel.app/api?username=colorfulhby&show_icons=true)](https://github.com/colorfulhby/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colorfulhby&layout=compact)](https://github.com/colorfulhby/github-readme-stats)
 
 <!--
 **colorfulhby/colorfulhby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
